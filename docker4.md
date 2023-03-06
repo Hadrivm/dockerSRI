@@ -17,3 +17,20 @@
 
 ![image](https://user-images.githubusercontent.com/91189372/223180609-bfdb9bdb-b605-420e-bac8-5d5194b87cc4.png)
 
+![image](https://user-images.githubusercontent.com/91189372/223181661-f3e49c73-411a-443e-acf3-d1f979e73930.png)
+
+![image](https://user-images.githubusercontent.com/91189372/223181939-647718c4-a167-40c4-b96a-584cb4f7d489.png)
+
+![image](https://user-images.githubusercontent.com/91189372/223182100-afa4b895-44e9-44bc-ae1e-6e747fad7619.png)
+
+
+## Ejemplo 3: Despliegue de Wordpress + mariadb
+
+![image](https://user-images.githubusercontent.com/91189372/223184527-43df3bf2-0d62-4916-8785-632d52df2f0c.png)
+
+![image](https://user-images.githubusercontent.com/91189372/223190402-76fd909d-3f0a-4e77-821c-416aa561640c.png)
+
+![image](https://user-images.githubusercontent.com/91189372/223191092-51e0b268-3a04-481d-b3d6-cac1976fda28.png)
+
+![image](https://user-images.githubusercontent.com/91189372/223191362-ba5d60b2-cc9a-4e5c-a245-963f1a9a710b.png)
+
