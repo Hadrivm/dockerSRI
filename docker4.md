@@ -61,7 +61,7 @@ A continuación, ejecuto los dos contenedores:
 
 ![image](https://user-images.githubusercontent.com/91189372/223191092-51e0b268-3a04-481d-b3d6-cac1976fda28.png)
 
-Finalmente desd el navegador puedo visualizar la aplicación Wordpress
+Finalmente desde el navegador puedo visualizar la aplicación Wordpress
 
 ![image](https://user-images.githubusercontent.com/91189372/223191362-ba5d60b2-cc9a-4e5c-a245-963f1a9a710b.png)
 
