@@ -41,10 +41,9 @@
 ![image](https://user-images.githubusercontent.com/91189372/223121985-5150b87d-2c10-4f68-85df-a49b063f9fcd.png)
 
 
-
 #### 12. Borra todos los contenedores
 
-Para ello, para todos los contenedores y acontinuación los borro
+Para ello, paro todos los contenedores y a continuación los borro
 
 ![image](https://user-images.githubusercontent.com/91189372/223122460-d861394c-a187-42f0-ad35-cbf60f40f107.png)
 
